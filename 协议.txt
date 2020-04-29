@@ -1,0 +1,1 @@
+0xFF ch0L ch0H ch1L ch1H ch2L ch2H ch3L ch3L checksum
